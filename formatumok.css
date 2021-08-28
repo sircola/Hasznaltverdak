@@ -1,0 +1,62 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2021.05.23., 18:50:08
+    Author     : bernie
+*/
+
+.cim {
+    text-align: right;
+}
+
+#diasor {
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+input{
+    
+}
+
+input[type=text],input[type=password] {
+    color: blue;
+    width: 200px;
+}
+
+#gomb{
+    text-align: right;
+}
+
+#regtable {
+    border: 1px red solid;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#uploadtable {
+    border: 1px grey solid;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#searchtable {
+    border: none;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40px;
+}
+
+.veres{
+    color: red;
+}
+
+.kep{
+    width: 140px;
+    height: 120px;
+}
