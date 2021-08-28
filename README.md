@@ -1,1 +1,1 @@
-# Hasznaltverdak Copyright (C) Bernie Kirschner 2021
+# Hasznaltverdak (C) 2021 Copyright by Bernie Kirschner and SirCola
